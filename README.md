@@ -41,20 +41,3 @@ See requirements.txt.
 Requires a SerpAPI key.
 
 Built with 📍 Egypt region (gl="eg" in search parameters).
-
-yaml
-Copy
-Edit
-
-Then click **Commit changes**.
-
----
-
-### 2. 📸 (Optional but Powerful) Add Images to README
-
-You can run your notebook, save the plots as `.png` files, and drag them into the GitHub repo. Then you can embed them in your README like:
-
-```markdown
-## 📸 Sample Visualization
-
-![2D Graph](realme_graph_2d.png)
