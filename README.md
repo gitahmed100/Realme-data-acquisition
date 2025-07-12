@@ -28,9 +28,6 @@ This project demonstrates a full data acquisition pipeline using **Google Search
    pip install -r requirements.txt
 Open the Jupyter Notebook:
 
-bash
-Copy
-Edit
 jupyter notebook final_acq_project.ipynb
 Replace the placeholder API key with your own from SerpAPI.
 
